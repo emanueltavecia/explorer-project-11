@@ -1,0 +1,15 @@
+{
+  "name": "explorer-project-11",
+  "version": "1.0.0",
+  "description": "- Rocketseat Explorer - Stage 06 - Project 11",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
