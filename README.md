@@ -6,9 +6,29 @@ Project developed on Rocketseat's Explorer course
 
 ![SPA Website project screenshot](./.github/screenshot.png)
 
-## 🔗 Project Links
+## 📝 Instructions for use
 
-- 🚀 [**Deploy**](https://emanueltavecia.github.io/spa-website)
+- Clone the project on your computer:
+  ```bash
+  git clone https://github.com/emanueltavecia/spa-website.git
+  ```
+
+- Access the project folder:
+  ```bash
+  cd spa-website
+  ```
+
+- Install dependencies:
+  ```bash
+  npm install
+  ```
+
+- Run the server:
+  ```bash
+  npm start
+  ```
+
+- Your default browser will open with the SPA Website project
 
 ## 📋 Project information
 
