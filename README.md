@@ -6,6 +6,12 @@ Project developed on Rocketseat's Explorer course
 
 ![SPA Website project screenshot](./.github/screenshot.png)
 
+## 📋 Project information
+
+- Rocketseat Explorer
+- Stage 06
+- Project 11
+
 ## 📝 Instructions for use
 
 - Clone the project on your computer:
@@ -30,12 +36,6 @@ Project developed on Rocketseat's Explorer course
 
 - Your default browser will open with the SPA Website project
 
-## 📋 Project information
-
-- Rocketseat Explorer
-- Stage 06
-- Project 11
-
 ## 🧠 Concepts learned
 
 The development of this project aims to learn the following concepts:
@@ -44,6 +44,7 @@ The development of this project aims to learn the following concepts:
 - Routes of an application
 - Asynchronous JavaScript Programming
 - Object Oriented Programming (OOP)
+- Classes
 - Local server with the lite-server library
 - First concepts of Node.js
 
